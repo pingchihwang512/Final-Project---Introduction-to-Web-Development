@@ -1,4 +1,4 @@
-# Introduction to Web Development with HTML, CSS, JavaScript Final Project
+#  Final Project - Introduction to Web Development with HTML, CSS, JavaScript
 Now that you have been equipped with the skills to use HTML, CSS, and JavaScript, you will have the opportunity to practice and create a web application.
 
 - **Scenario** 
